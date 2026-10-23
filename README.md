@@ -23,5 +23,7 @@
 
 *Mô tả: Chọn ảnh bìa sách từ đĩa cứng hiển thị lên PictureBox và nạp dữ liệu từ file
 CSV.*
+* **Kết Quả**
+* <img width="1258" height="749" alt="result" src="https://github.com/user-attachments/assets/9a4d541c-54a8-4875-ba04-ef1c47126ea0" />
 
 ---
